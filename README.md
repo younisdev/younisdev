@@ -6,4 +6,4 @@
 
 🛠️ HTML | CSS | SCSS | JavaScript | React | Python | Django | Flask | C | C# | SQL | MySQL | MongoDB | Markdown
 
-☕Learning, building, debugging, and sharing clean code
+☕ Learning, building, debugging, and sharing clean code
