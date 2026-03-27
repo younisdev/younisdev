@@ -30,7 +30,7 @@
 ☕ Learning, building, debugging, and sharing clean code
 <div align="center">
   
-![Younis's GitHub stats](https://github-readme-stats.vercel.app/api?username=younisdev&show_icons=true&theme=transparent&hide_border=true)
+![Younis's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=younisdev&show_icons=true&theme=transparent&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=younisdev&theme=transparent&hide_border=true)
 
