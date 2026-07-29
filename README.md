@@ -33,7 +33,7 @@ Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** - A Config-driven
   
 ![Younis's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=younisdev&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=4c1d95&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=younisdev&background=0d1117&fire=4c1d95&ring=4c1d95&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=younisdev&background=0d1117&fire=4c1d95&ring=4c1d95&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true)
 
 
 </div>
