@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Younis Ayoub
 
 💻 Self-taught Full Stack Web Developer | MDN Web Docs Contributor  
-📚 CS50x & CS50 Web Graduate – Harvard University
+📚 CS50x & CS50 Web - Harvard University
 
 </div>
 
@@ -28,7 +28,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ## 🌱 Currently
-Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** - A Config-driven animated React component library.
+Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** - A Config-driven animated React component library focused on composability, dynamic styling, and headless architecture.
 <div align="center">
   
 ![Younis's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=younisdev&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=4c1d95&hide_border=true)
@@ -39,6 +39,6 @@ Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** - A Config-driven
 </div>
 
 ## 📬 Contact
-[younisdevx@gmail.com](mailto:younisdevx@gmail.com)
-
+[![Live Portfolio](https://img.shields.io/badge/🌐_Portfolio-younisdev.github.io-00FF00?style=for-the-badge&labelColor=0d1117&color=00FF00)](https://younisdev.github.io/)
+[![Email](https://img.shields.io/badge/Email-younisdevx%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younisdevx@gmail.com)
 
