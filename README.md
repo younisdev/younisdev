@@ -28,7 +28,10 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ## 🌱 Currently
-Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** - A Config-driven animated React component library focused on composability, dynamic styling, and headless architecture.
+Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** · A Config-driven animated React component library focused on composability, dynamic styling, and headless architecture.
+
+**1,250+ commits · 63+ contributors · Weekly releases**
+
 <div align="center">
   
 ![Younis's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=younisdev&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=4c1d95&hide_border=true)
