@@ -2,37 +2,27 @@
   
 # 👋 Hi, I'm Younis Ayoub
 
-💻 Self-taught Full Stack Web Developer | MDN Web Docs Contributor  
+💻 Full-Stack Developer · Open-Source Maintainer · MDN Web Docs Contributor 
 📚 CS50x & CS50 Web - Harvard University
 
-</div>
+[🌐 Live Portfolio](https://younisdev.github.io/) · [✉️ Email Me](mailto:younisdevx@gmail.com) · [📦 Dyvix UI on npm](https://www.npmjs.com/package/dyvix-ui)
 
 ---
 
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+</div>
 
 ## 🌱 Currently
-Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** · A Config-driven animated React component library focused on composability, dynamic styling, and headless architecture.
+Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** · A config-driven animated React component library focused on composability, dynamic styling, headless architecture, and typed developer tooling.
 
-**1,250+ commits · 63+ contributors · Weekly releases**
+**1,250+ commits · 63+ contributors · Frequent releases**
+
+## 🛠️ Core Stack
+
+TypeScript · React · Next.js · JavaScript · CSS/SCSS · Tailwind · Markdown
+
+## 🧩 Also Worked With
+
+Python · Django · Flask · C · C# · SQL · MySQL · MongoDB
 
 <div align="center">
   
@@ -42,8 +32,3 @@ Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** · A Config-drive
 
 
 </div>
-
-## 📬 Contact
-[![Live Portfolio](https://img.shields.io/badge/🌐_Portfolio-younisdev.github.io-00FF00?style=for-the-badge&labelColor=0d1117&color=00FF00)](https://younisdev.github.io/)
-[![Email](https://img.shields.io/badge/Email-younisdevx%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younisdevx@gmail.com)
-
