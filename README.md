@@ -5,7 +5,7 @@
 💻 Full-Stack Developer · Open-Source Maintainer · MDN Web Docs Contributor 
 📚 CS50x & CS50 Web - Harvard University
 
-[🌐 Live Portfolio](https://younisdev.github.io/) · [✉️ Email Me](mailto:younisdevx@gmail.com) · [📦 Dyvix UI on npm](https://www.npmjs.com/package/dyvix-ui)
+[🌐 Live Portfolio](https://younisdev.vercel.app/) · [✉️ Email Me](mailto:younisdevx@gmail.com) · [📦 Dyvix UI on npm](https://www.npmjs.com/package/dyvix-ui)
 
 ---
 
