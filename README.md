@@ -14,7 +14,7 @@
 ## 🌱 Currently
 Building **[Dyvix UI](https://github.com/younisdev/dyvix-ui)** · A config-driven animated React component library focused on composability, dynamic styling, headless architecture, and typed developer tooling.
 
-**1,250+ commits · 63+ contributors · Frequent releases**
+**1,472+ commits · 65+ contributors · Frequent releases**
 
 ## 🛠️ Core Stack
 
